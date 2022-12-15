@@ -54,7 +54,7 @@
     "classlist.js": "^1.1.20150312",
     "core-js": "^2.4.1",
     "date-fns": "^1.30.1",
-    "express": "^4.16.2",
+    "express": "^4.17.3",
     "he": "^1.2.0",
     "jsontoxml": "^1.0.1",
     "novo-elements": "github:bullhorn/novo-elements-snapshot#f/remove-ace-and-dragula",
